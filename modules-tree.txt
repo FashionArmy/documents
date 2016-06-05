@@ -1,1 +1,22 @@
-
+Logidtico
+ - Ordenes de compra.
+ - Inventario.
+ - Guias de remisión.
+Producción
+ - Planificación
+ - Ordenes de trabajo
+Comercial
+ - Orden Ventas
+ - Mejora Continua
+Finanzas
+ - Facturación
+ - Notas de Crédito y Débito
+Configuración
+ - Socios de negocios
+ , Articulos
+ - Forma de pagos
+ - Procesos
+ - Almacenes
+ - Usuarios
+ - Tipo documentos
+ - Tablas Sunat
