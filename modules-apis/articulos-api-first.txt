@@ -1,0 +1,18 @@
+API FIRST MICROSERVICIOS DE ARTICULOS
+============================================
+
+PATH            METHOD        DETALLE
+-----------------------------------------------------------------------------------------
+/articles               GET          retorna una lista JSON de todos los articulos en la base de datos.
+                                      /articles?start={inicio}&limit={numero_registros}&page={pagina}
+                                      parametros:
+                                      start = row de inicio.
+                                      limit = numero de registros (similar a TOP de SQL Server)
+                                      page  = numero de pagina ( para traer los datos por paginas y no todo)
+/articles               POST         crear un nuevo Articulo en la base de datos
+/articles/{id}          GET          retorna el detalle de un articulo en formato JSON.
+/articles/{id}          PUT          modificar los datos de un articulo en la base de datos.
+/articles/{id}          DELETE       eliminar un articulo de la base de datos.
+
+/articles/{id}/kardex   GET          obtener en una lista JSON la lista del kardex valorado del articulo
+/aticles/{id}/providers GET          obtener una lista JSON de todos los proveedores de este articulo.
