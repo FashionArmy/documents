@@ -1,0 +1,55 @@
+1. SEGMENTO DE CLIENTES
+   Pequenos y medianos empresarios con tiendas de ropa en centros comerciales. Gamarra, etc.
+
+
+2. RELACIONES CON CLIENTES
+   - Call Center
+   - Auto Servicio
+  
+
+3. PROPUESTAS DE VALOR
+   - Herramientas para la gestion de su negocio (ERP).
+   - Herramientas de reportes para la toma de decisiones.
+   - Mejor visibilidad de toda su empresa.
+   - Consultar informacion en linea desde cualquier dispositivo conectado a internet:
+     = Moviles/Tablets
+     = Laptop/Computador
+     = Reloj/TV (Mas adelante XD)
+   - Asegurar su informacion
+   - Tener la trazabilidad completa de los movimientos de la informacion.
+   - Rapidez en todas las operaciones del negocio.
+   - Ventaja competitiva tecnologica.
+   - Asesoria para la mejora de los procesos de negocio
+   - Identificar oportunidades de mejora.
+  
+
+4. CANALES
+   - Ventas personales
+   - Pagina Web informativa.
+   
+
+5. ACTIVIDADES CLAVE
+   - Desarrollo de productos/modulos
+   - Mantenimiento y soporte de los clientes
+   - Gestion de las operaciones
+
+6. RECURSOS CLAVE
+   - Aplicaciones
+   - Infraestructura CLOUD
+   - Programadores/Analistas
+   
+7. SOCIOS CLAVE
+   - Partners de las tecnologias a emplear/
+   - Proveedores de Soluciones Cloud
+      - Amazon
+      
+
+8. ESTRUCTURA DE COSTOS
+   - Pago personal
+   - Pago por alquiler de infraestructura 
+   - Gastos administrativos
+   - Gastos de alta de cliente
+
+9. FUENTES DE INGRESOS
+   - Pagos por subscripcion.
+   - Productos personalizados.
