@@ -26,6 +26,9 @@ Fashion Army's - Technology Stack -
    - STS. Spring Tool Suite.
    - Atom Text Editor.
 
+  Rest Testers:
+   - Postman
+
   Test Web Browsers:
    - Google Chrome
    - Mozilla Firefox
@@ -59,6 +62,9 @@ Fashion Army's - Technology Stack -
   Package Managers:
    - npm
 
+  Test Web Browsers:
+   - Google Chrome
+   - Mozilla Firefox
 
 
 ***************************************************
