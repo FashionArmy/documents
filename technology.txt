@@ -1,0 +1,71 @@
+
+Fashion Army's - Technology Stack -
+
+****************************************************
+- Backend -----------------------------------------
+****************************************************
+  Frameworks:
+   - Spring Boot
+   - Spring Cloud
+   - Spring Data
+   - Spring JPA
+   - Hibernate
+   - JUnit - Unit Tests
+
+  Package Managers:
+   - Gradle
+
+  Databases:
+   - Postgres (Transactional)
+   - MongoDB  (Document)
+
+  Programming Languages:
+   - Java
+
+  Text Editors:
+   - STS. Spring Tool Suite.
+   - Atom Text Editor.
+
+  Test Web Browsers:
+   - Google Chrome
+   - Mozilla Firefox
+
+
+****************************************************
+- Front End ----------------------------------------
+****************************************************
+  Frameworks:
+   - NodeJS
+   - Bootstrap
+   - Angular Material Design
+   - web:
+     - HTML 5
+     - Javascript
+     - CSS3
+     
+   
+  Platforms:
+   - Mobile:
+     - Ionic + Cordova + AngularJS
+   - Desktop:
+     - Electron + AngularJS
+   - Web:
+     - AngularJS
+
+  Automation Tools:
+   - Gulp
+   - Bower
+
+  Package Managers:
+   - npm
+
+
+
+***************************************************
+- Server  -----------------------------------------
+****************************************************
+ - Cloud providers:
+   <! PENDIENTE POR ANALIZAR (Erikson) !>
+   - Amazon Web Services
+   - Heroku
+   - DigitalOcean
