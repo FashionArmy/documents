@@ -1,22 +1,75 @@
-Logidtico
- - Ordenes de compra.
+Logístico
+ - Programa de compra.
+  * Requerimientos.
+  * Ordenes de compra.
+  * Recepción de guías de remisión, conformidad de servicio o adelanto.
+  * Vales de consumo.
  - Inventario.
+  * Kardex.
+  * Distribución de inventario.
  - Guias de remisión.
+  * Transferencias Internas.
+  * Transferencias Externas.
+  * Ventas.
+  * Devolución.
+  * Reparación.
+ - KPI
 Producción
- - Planificación
- - Ordenes de trabajo
+ - Planificación.
+ - Ordenes de trabajo.
+ - KPI.
 Comercial
- - Orden Ventas
+ - Orden Ventas.
+  * Pedidos.
+  * Cotizaciones.
  - Mejora Continua
+  * Reclamos.
+ - KPI.
 Finanzas
- - Facturación
- - Notas de Crédito y Débito
+ - Facturación.
+  * Ventas.
+  * Anticipos.
+ - Notas de Crédito y Débito.
+ - KPI.
 Configuración
- - Socios de negocios
- , Articulos
- - Forma de pagos
- - Procesos
- - Almacenes
- - Usuarios
- - Tipo documentos
- - Tablas Sunat
+ - Socios de negocios.
+  * Proveedores.
+  * Clientes.
+  * Colaboradores.
+ - Articulos.
+ - Rubros.
+ - Centro de costos.
+ - Ubigeo.
+ - Forma de pagos.
+ - Procesos.
+ - Almacenes.
+ - Usuarios.
+ - Tablas Sunat.
+  * TABLA 1: TIPO DE MEDIO DE PAGO
+  * TABLA 2: TIPO DE DOCUMENTO DE IDENTIDAD
+  * TABLA 3: ENTIDAD FINANCIERA
+  * TABLA 4: TIPO DE MONEDA
+  * TABLA 5: TIPO DE EXISTENCIA
+  * TABLA 6: CÓDIGO DE LA UNIDAD DE MEDIDA
+  * TABLA 10: TIPO DE COMPROBANTE DE PAGO O DOCUMENTO
+  * TABLA 11: CÓDIGO DE LA ADUANA
+  * TABLA 12: TIPO DE OPERACIÓN
+  * TABLA 13: CATÁLOGO DE EXISTENCIAS
+  * TABLA 14: MÉTODO DE VALUACIÓN
+  * TABLA 15: TIPO DE TÍTULO
+  * TABLA 16: TIPO DE ACCIONES O PARTICIPACIONES
+  * TABLA 17: PLAN DE CUENTAS
+  * TABLA 18: TIPO DE ACTIVO FIJO
+  * TABLA 19: ESTADO DEL ACTIVO FIJO
+  * TABLA 20: MÉTODO DE DEPRECIACIÓN
+  * TABLA 21: CÓDIGO DE AGRUPAMIENTO DEL COSTO DE PRODUCCIÓN VALORIZADO ANUAL
+  * TABLA 22: CATÁLOGO DE ESTADOS FINANCIEROS
+  * TABLA 25: CONVENIOS PARA EVITAR LA DOBLE TRIBUTACIÓN"
+  * TABLA 27: TIPO DE VINCULACION ECONOMICA
+  * TABLA 28: PATRIMONIO NETO
+  * TABLA 30: CLASIFICACIÓN DE LOS BIENES Y SERVICIOS ADQUIRIDOS
+  * TABLA 31: TIPO DE RENTA
+  * TABLA 32: MODALIDAD DEL SERVICIO PRESTADO POR EL SUJETO NO DOMICILIADO
+  * TABLA 33: EXONERACIONES DE OPERACIONES DE NO DOMICILIADOS (ART. 19 DE LA LEY DEL IMPUESTO A LA RENTA)
+  * TABLA 34: CÓDIGO DE LOS RUBROS DE LOS ESTADOS FINANCIEROS
+  * TABLA 35: PAISES
